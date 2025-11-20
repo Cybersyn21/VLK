@@ -1,0 +1,22 @@
+Вот ссылки на аудиофайлы первого альбома «Моя песня – на светлую чашу весов», извлеченные из предоставленного HTML-кода, с сопоставлением названий песен:
+
+* **01. Два пути** — `https://v-volkov.ru/audio/cd1/101_vlk_dva_puti.mp3`
+* **02. Православные** — `https://v-volkov.ru/audio/cd1/102_vlk_pravoslavnye.mp3`
+* **03. Келья моя** — `https://v-volkov.ru/audio/cd1/103_vlk_kelya_moya.mp3`
+* **04. Кругом благодать** — `https://v-volkov.ru/audio/cd1/104_vlk_krugom_blagodat.mp3`
+* **05. Колокольня свечой в небо** — `https://v-volkov.ru/audio/cd1/105_vlk_kolokolnya_svechoy_v_nebo.mp3`
+* **06. Опять будто нищий** — `https://v-volkov.ru/audio/cd1/106_vlk_opyat_budto_nishchiy.mp3`
+* **07. Был мне сон** — `https://v-volkov.ru/audio/cd1/107_vlk_byl_mne_son.mp3`
+* **08. Вот уж вечер** — `https://v-volkov.ru/audio/cd1/108_vlk_vot_uzh_vecher.mp3`
+* **09. Только вечность** — `https://v-volkov.ru/audio/cd1/109_vlk_tolko_vechnost.mp3`
+* **10. Монастырь** — `https://v-volkov.ru/audio/cd1/110_vlk_monastyr.mp3`
+* **11. Не отыми Покрова** — `https://v-volkov.ru/audio/cd1/111_vlk_ne_otymi_pokrova.mp3`
+* **12. От красной с золотом свечи** — `https://v-volkov.ru/audio/cd1/112_vlk_ot_krasnoy_s_zolotom_svechi.mp3`
+* **13. Кругом белым-бело** — `https://v-volkov.ru/audio/cd1/113_vlk_krugom_belym_belo.mp3`
+* **14. Глас Архангельский** — `https://v-volkov.ru/audio/cd1/114_vlk_glas_arhangelskiy.mp3`
+* **15. Свеча** — `https://v-volkov.ru/audio/cd1/115_vlk_svecha.mp3`
+* **16. Зимник** — `https://v-volkov.ru/audio/cd1/116_vlk_zimnik.mp3`
+* **17. Три ангела** — `https://v-volkov.ru/audio/cd1/117_vlk_tri_angela.mp3`
+* **18. Ночь, в храме тишина** — `https://v-volkov.ru/audio/cd1/118_vlk_noch_v_hrame_tishina.mp3`
+* **19. Отгорит в ночи моя звезда** — `https://v-volkov.ru/audio/cd1/119_vlk_otgorit_v_nochi_moya_zvezda.mp3`
+* **20. Помолитесь за меня** — `https://v-volkov.ru/audio/cd1/120_vlk_pomolites_za_menya.mp3`
