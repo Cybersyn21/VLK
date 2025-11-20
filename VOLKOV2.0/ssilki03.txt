@@ -1,23 +1,24 @@
-# Ссылки на аудиофайлы третьего альбома «Горит свеча», извлеченные из предоставленного HTML-кода, с сопоставлением названий песен:
+Ссылки на аудиофайлы третьего альбома «Горит свеча»
 
-* **01. Горит свеча** — `https://v-volkov.ru/audio/cd3/301_vlk_gorit_svecha.mp3`
-* **02. День под вечер уснул** — `https://v-volkov.ru/audio/cd3/302_vlk_den_pod_vecher_usnul.mp3`
-* **03. Короткая песня** — `https://v-volkov.ru/audio/cd3/303_vlk_korotkaya_pesnya.mp3`
-* **04. Не звони, колокол, к беде** — `https://v-volkov.ru/audio/cd3/304_vlk_ne_zvoni_kolokol_k_bede.mp3`
-* **05. Атака** — `https://v-volkov.ru/audio/cd3/305_vlk_ataka.mp3`
-* **06. Под стволами** — `https://v-volkov.ru/audio/cd3/306_vlk_pod_stvolami.mp3`
-* **07. 9 мая нас всех собирает** — `https://v-volkov.ru/audio/cd3/307_vlk_9_maya_nas_vseh_sobiraet.mp3`
-* **08. Отесал берёзку** — `https://v-volkov.ru/audio/cd3/308_vlk_otesal_beryozku.mp3`
-* **09. Не желаю врать** — `https://v-volkov.ru/audio/cd3/309_vlk_ne_zhelayu_vrat.mp3`
-* **10. Кавказский крест** — `https://v-volkov.ru/audio/cd3/310_vlk_kavkazskiy_krest.mp3`
-* **11. Снайпер** — `https://v-volkov.ru/audio/cd3/311_vlk_snayper.mp3`
-* **12. Светило** — `https://v-volkov.ru/audio/cd3/312_vlk_svetilo.mp3`
-* **13. Веничек берёзовый** — `https://v-volkov.ru/audio/cd3/313_vlk_venichek_beryozovyy.mp3`
-* **14. Первый снег** — `https://v-volkov.ru/audio/cd3/314_vlk_pervyy_sneg.mp3`
-* **15. Построил дом** — `https://v-volkov.ru/audio/cd3/315_vlk_postroil_dom.mp3`
-* **16. Пара фраз** — `https://v-volkov.ru/audio/cd3/316_vlk_para_fraz.mp3`
-* **17. Снова проснусь** — `https://v-volkov.ru/audio/cd3/317_vlk_snova_prosnus.mp3`
-* **18. Слёзы твоей души** — `https://v-volkov.ru/audio/cd3/318_vlk_slyozy_tvoey_dushi.mp3`
-* **19. Распустилась сирень** — `https://v-volkov.ru/audio/cd3/319_vlk_raspustilas_siren.mp3`
-* **20. Батюшка** — `https://v-volkov.ru/audio/cd3/320_vlk_batyushka.mp3`
-* **21. Ах, как долго я не бывал** — `https://v-volkov.ru/audio/cd3/321_vlk_ah_kak_dolgo_ya_ne_byval.mp3`
+01. Горит свеча — https://v-volkov.ru/audio/cd3/301_vlk_gorit_svecha.mp3
+02. День под вечер уснул — https://v-volkov.ru/audio/cd3/302_vlk_den_pod_vecher_usnul.mp3
+03. Короткая песня — https://v-volkov.ru/audio/cd3/303_vlk_korotkaya_pesnya.mp3
+04. Не звони, колокол, к беде — https://v-volkov.ru/audio/cd3/304_vlk_ne_zvoni_kolokol_k_bede.mp3
+05. Атака — https://v-volkov.ru/audio/cd3/305_vlk_ataka.mp3
+06. Под стволами — https://v-volkov.ru/audio/cd3/306_vlk_pod_stvolami.mp3
+07. 9 мая нас всех собирает — https://v-volkov.ru/audio/cd3/307_vlk_9_maya_nas_vseh_sobiraet.mp3
+08. Отесал берёзку — https://v-volkov.ru/audio/cd3/308_vlk_otesal_beryozku.mp3
+09. Не желаю врать — https://v-volkov.ru/audio/cd3/309_vlk_ne_zhelayu_vrat.mp3
+10. Кавказский крест — https://v-volkov.ru/audio/cd3/310_vlk_kavkazskiy_krest.mp3
+11. Снайпер — https://v-volkov.ru/audio/cd3/311_vlk_snayper.mp3
+12. Светило — https://v-volkov.ru/audio/cd3/312_vlk_svetilo.mp3
+13. Веничек берёзовый — https://v-volkov.ru/audio/cd3/313_vlk_venichek_beryozovyy.mp3
+14. Первый снег — https://v-volkov.ru/audio/cd3/314_vlk_pervyy_sneg.mp3
+15. Построил дом — https://v-volkov.ru/audio/cd3/315_vlk_postroil_dom.mp3
+16. Пара фраз — https://v-volkov.ru/audio/cd3/316_vlk_para_fraz.mp3
+17. Снова проснусь — https://v-volkov.ru/audio/cd3/317_vlk_snova_prosnus.mp3
+18. Слёзы твоей души — https://v-volkov.ru/audio/cd3/318_vlk_slyozy_tvoey_dushi.mp3
+19. Распустилась сирень — https://v-volkov.ru/audio/cd3/319_vlk_raspustilas_siren.mp3
+20. Батюшка — https://v-volkov.ru/audio/cd3/320_vlk_batyushka.mp3
+21. Ах, как долго я не бывал — https://v-volkov.ru/audio/cd3/321_vlk_ah_kak_dolgo_ya_ne_byval.mp3
+

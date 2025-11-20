@@ -1,20 +1,21 @@
-# Ссылки на аудиофайлы четвертого альбома «Наша жизнь – слишком тонкая нить», извлеченные из предоставленного HTML-кода, с сопоставлением названий песен:
+Ссылки на аудиофайлы четвертого альбома «Наша жизнь – слишком тонкая нить»
 
-* **01. Дом родной** — `https://v-volkov.ru/audio/cd4/401_vlk_dom_rodnoy.mp3`
-* **02. Я грешный человек** — `https://v-volkov.ru/audio/cd4/402_vlk_ya_greshnyy_chelovek.mp3`
-* **03. Слёзы твоей души** — `https://v-volkov.ru/audio/cd3/318_vlk_slyozy_tvoey_dushi.mp3`
-* **04. Рады бы, но уже не воротить** — `https://v-volkov.ru/audio/cd4/403_vlk_rady_by_no_uzhe_ne_vorotit.mp3`
-* **05. И живёт, грустит, молчит вино в хрустале** — `https://v-volkov.ru/audio/cd4/404_vlk_i_zhivyot_grustit_molchit_vino_v_hrustale.mp3`
-* **06. А на горке крест** — `https://v-volkov.ru/audio/cd4/405_vlk_a_na_gorke_krest.mp3`
-* **07. Я искал** — `https://v-volkov.ru/audio/cd4/406_vlk_ya_iskal.mp3`
-* **08. За номером семь сразу восемь** — `https://v-volkov.ru/audio/cd4/407_vlk_za_nomerom_sem_srazu_vosem.mp3`
-* **09. Я охладел к зиме** — `https://v-volkov.ru/audio/cd4/408_vlk_ya_ohladel_k_zime.mp3`
-* **10. Светлый ангел** — `https://v-volkov.ru/audio/cd4/409_vlk_svetlyy_angel.mp3`
-* **11. А жажда жизни, видит Бог, неистребима** — `https://v-volkov.ru/audio/cd4/410_vlk_a_zhazhda_zhizni_vidit_bog_neistrebima.mp3`
-* **12. Наблюдаю Россию** — `https://v-volkov.ru/audio/cd4/411_vlk_nablyudayu_rossiyu.mp3`
-* **13. Странник** — `https://v-volkov.ru/audio/cd4/412_vlk_strannik.mp3`
-* **14. Дом мой на горе** — `https://v-volkov.ru/audio/cd4/413_vlk_dom_moy_na_gore.mp3`
-* **15. Версий и мнений много** — `https://v-volkov.ru/audio/cd4/414_vlk_versiy_i_mneniy_mnogo.mp3`
-* **16. Мы в одиночестве совсем не одиноки** — `https://v-volkov.ru/audio/cd4/415_vlk_my_v_odinochestve_sovsem_ne_odinoki.mp3`
-* **17. Я с верою родился и возрос** — `https://v-volkov.ru/audio/cd4/416_vlk_ya_s_veroyu_rodilsya_i_vozros.mp3`
-* **18. Наша жизнь – слишком тонкая нить** — `https://v-volkov.ru/audio/cd4/417_vlk_nasha_zhizn_slishkom_tonkaya_nit.mp3`
+01. Дом родной — https://v-volkov.ru/audio/cd4/401_vlk_dom_rodnoy.mp3
+02. Я грешный человек — https://v-volkov.ru/audio/cd4/402_vlk_ya_greshnyy_chelovek.mp3
+03. Слёзы твоей души — https://v-volkov.ru/audio/cd3/318_vlk_slyozy_tvoey_dushi.mp3
+04. Рады бы, но уже не воротить — https://v-volkov.ru/audio/cd4/403_vlk_rady_by_no_uzhe_ne_vorotit.mp3
+05. И живёт, грустит, молчит вино в хрустале — https://v-volkov.ru/audio/cd4/404_vlk_i_zhivyot_grustit_molchit_vino_v_hrustale.mp3
+06. А на горке крест — https://v-volkov.ru/audio/cd4/405_vlk_a_na_gorke_krest.mp3
+07. Я искал — https://v-volkov.ru/audio/cd4/406_vlk_ya_iskal.mp3
+08. За номером семь сразу восемь — https://v-volkov.ru/audio/cd4/407_vlk_za_nomerom_sem_srazu_vosem.mp3
+09. Я охладел к зиме — https://v-volkov.ru/audio/cd4/408_vlk_ya_ohladel_k_zime.mp3
+10. Светлый ангел — https://v-volkov.ru/audio/cd4/409_vlk_svetlyy_angel.mp3
+11. А жажда жизни, видит Бог, неистребима — https://v-volkov.ru/audio/cd4/410_vlk_a_zhazhda_zhizni_vidit_bog_neistrebima.mp3
+12. Наблюдаю Россию — https://v-volkov.ru/audio/cd4/411_vlk_nablyudayu_rossiyu.mp3
+13. Странник — https://v-volkov.ru/audio/cd4/412_vlk_strannik.mp3
+14. Дом мой на горе — https://v-volkov.ru/audio/cd4/413_vlk_dom_moy_na_gore.mp3
+15. Версий и мнений много — https://v-volkov.ru/audio/cd4/414_vlk_versiy_i_mneniy_mnogo.mp3
+16. Мы в одиночестве совсем не одиноки — https://v-volkov.ru/audio/cd4/415_vlk_my_v_odinochestve_sovsem_ne_odinoki.mp3
+17. Я с верою родился и возрос — https://v-volkov.ru/audio/cd4/416_vlk_ya_s_veroyu_rodilsya_i_vozros.mp3
+18. Наша жизнь – слишком тонкая нить — https://v-volkov.ru/audio/cd4/417_vlk_nasha_zhizn_slishkom_tonkaya_nit.mp3
+
